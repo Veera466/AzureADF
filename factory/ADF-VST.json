@@ -1,0 +1,9 @@
+{
+	"name": "ADF-VST",
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ae2f7737-06e8-4d12-99fc-201aa529ccce",
+		"tenantId": "47819cba-4d86-4449-98b3-6e56afc41ad8"
+	}
+}
